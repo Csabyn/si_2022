@@ -1,3 +1,55 @@
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+# declară o listă care conține elementele 7, 8, 9, 2, 3, 1, 4, 10, 5, 6 (în această ordine)
+
+
+
+
+
+
+
+# afișează lista inițială ordonată ascendent (lista inițială trebuie păstrată în aceeași formă)
+
+
+
+
+
+
+
+
+
+
+
+# afișează lista inițială ordonată descendent (lista inițială trebuie păstrată în aceeași formă)
+
+
+
+
+
+
+
+
+# afișează o listă ce conține numerele pare din lista ordonată (folosind slice)
+
+
+
+
+
+
+
+
+# afișează o listă ce conține numerele impare din lista ordonată (folosind slice)
+
+
+
+
+
+
+
+
+# afisează o listă ce conține numerele ce sunt multipli ai numărului 3 (folosind slice)
+
+
+
+
+
+
+
